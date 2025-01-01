@@ -438,3 +438,4 @@ chmod +x five.sh
 d
 __vsc_prompt_cmd_original
 ./five.sh
+clear
