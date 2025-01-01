@@ -173,3 +173,4 @@ help [[ expression ]]
 help test
 ./countdown 5
 ./countdown.sh 5
+[[ 4 -le 5 ]]
