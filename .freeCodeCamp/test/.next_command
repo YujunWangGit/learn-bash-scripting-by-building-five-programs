@@ -165,3 +165,4 @@ help if
 ./countdown.sh dog
 ./countdown.sh BLACK
 ./countdown.sh 4
+./countdown.sh 5
