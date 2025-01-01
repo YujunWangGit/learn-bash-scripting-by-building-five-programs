@@ -442,3 +442,4 @@ clear
 ./five/sh
 ./five.sh
 help
+help type
