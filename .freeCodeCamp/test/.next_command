@@ -126,3 +126,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch questionnaire.sh
 touch questionnaire.sh
 pwd
+sh questionnaire.sh
