@@ -403,3 +403,6 @@ declare -p $VAR
 declare -p ARR
 ./fortune.sh
 help
+man function
+__vsc_prompt_cmd_original
+help function
