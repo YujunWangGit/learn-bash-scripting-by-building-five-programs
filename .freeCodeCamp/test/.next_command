@@ -152,3 +152,4 @@ man echo
 touch countdown.sh
 chmod +x countdown.sh
 echo $*
+./countdown.sh
