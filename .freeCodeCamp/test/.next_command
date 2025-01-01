@@ -190,3 +190,5 @@ bad_commandl
 __vsc_prompt_cmd_original
 [[ 10 != 5 ]]
 bad_command
+ls --color=auto
+ls --color=auto
