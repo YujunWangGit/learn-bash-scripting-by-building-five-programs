@@ -164,3 +164,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh dog
 ./countdown.sh BLACK
+./countdown.sh 4
