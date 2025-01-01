@@ -206,3 +206,4 @@ help [[
 ./countdown.sh 1
 ./countdown.sh dog
 help
+./countdown.sh 10
