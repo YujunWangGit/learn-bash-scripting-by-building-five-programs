@@ -144,3 +144,5 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 echo --help
 man echo
+./questionnatire.sh
+./questionnaire.sh
