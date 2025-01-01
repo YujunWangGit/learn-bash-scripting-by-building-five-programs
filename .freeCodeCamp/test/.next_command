@@ -439,3 +439,5 @@ d
 __vsc_prompt_cmd_original
 ./five.sh
 clear
+./five/sh
+./five.sh
