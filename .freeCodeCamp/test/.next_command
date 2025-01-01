@@ -394,3 +394,10 @@ chmod +x fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
 echo ${ARR[*]}
+-declare -p VAR
+-declar -p
+-declare -p
+-delcare -p $VAR
+declare -p $VAR
+declare -p $VAR
+declare -p ARR
