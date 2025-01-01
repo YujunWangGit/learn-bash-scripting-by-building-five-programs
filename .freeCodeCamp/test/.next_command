@@ -210,3 +210,5 @@ help
 help
 ls --color=auto /
 ls --color=auto /bin
+manual sleep
+man sleep
