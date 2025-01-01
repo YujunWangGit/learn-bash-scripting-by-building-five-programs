@@ -128,3 +128,4 @@ touch questionnaire.sh
 pwd
 sh questionnaire.sh
 bash questionnaire.sh
+which bash
