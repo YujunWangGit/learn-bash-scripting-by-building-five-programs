@@ -170,3 +170,4 @@ je
 help
 help expression
 help [[ expression ]]
+help test
