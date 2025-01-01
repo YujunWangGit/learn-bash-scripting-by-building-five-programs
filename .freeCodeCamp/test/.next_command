@@ -441,3 +441,4 @@ __vsc_prompt_cmd_original
 clear
 ./five/sh
 ./five.sh
+help
