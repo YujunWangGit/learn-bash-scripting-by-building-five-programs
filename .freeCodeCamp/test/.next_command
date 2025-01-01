@@ -199,3 +199,5 @@ help test
 [[ -a bad_file.txt ]]
 [[ -x coutndown.sh ]]
 [[ -x countdown.sh ]]
+__vsc_prompt_cmd_original
+help [[
