@@ -434,3 +434,7 @@ what
 ./fortune.sh
 touch five.sh
 chmod +x five.sh
+./five.sh
+d
+__vsc_prompt_cmd_original
+./five.sh
