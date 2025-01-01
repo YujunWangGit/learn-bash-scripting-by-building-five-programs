@@ -201,3 +201,4 @@ help test
 [[ -x countdown.sh ]]
 __vsc_prompt_cmd_original
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
