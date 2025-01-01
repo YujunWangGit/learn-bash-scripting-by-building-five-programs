@@ -168,3 +168,5 @@ help if
 ./countdown.sh 5
 je
 help
+help expression
+help [[ expression ]]
