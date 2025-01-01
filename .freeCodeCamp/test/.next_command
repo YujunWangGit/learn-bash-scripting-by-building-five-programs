@@ -430,3 +430,4 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 what
+./fortune.sh
